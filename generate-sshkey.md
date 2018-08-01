@@ -29,5 +29,5 @@ ssh-add ~/.ssh/id_rsa
 
 ### Copy SSH public key
 ```bash
-cat ssh-add ~/.ssh/id_rsa.pub
+cat ~/.ssh/id_rsa.pub
 ```
